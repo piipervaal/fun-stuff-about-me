@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,piiper,image/png,piper.png,2020,subject 1; Another Subject,St. Catharines,43.18615,-79.2403,A city in the Niagara Region
+item2,lysol,image/jpg,lysol.jpg,26-05-21,Subject 2; Yet More subject,A Park,43.1525,-79.23373,A park in the city
+item3,sub,image/png,sub.png,30-12-20,,,,,
+item4,red velet cookie <3,image/jpg,red velet cookie <3.jpg,14-10-21,,,,,
+item5,leigha,image/png,leigha.png,09-12-20,,,,,
